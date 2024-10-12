@@ -4,20 +4,6 @@
 	License: pixelarity.com/license
 */
 
-/* Spotlights */
-
-	.spotlights > section > .image:before {
-		opacity: 0 !important;
-	}
-
-	.spotlights > section > .content > .inner {
-		-moz-transform: none !important;
-		-webkit-transform: none !important;
-		-ms-transform: none !important;
-		transform: none !important;
-		opacity: 1 !important;
-	}
-
 /* Wrapper */
 
 	.wrapper > .inner {
